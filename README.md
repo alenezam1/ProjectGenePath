@@ -1,7 +1,7 @@
 # ProjectGenePath
 This project implements a flexible Genetic Algorithm (GA) in MATLAB to solve 2D robot path planning problems using a binary obstacle map.
 
-🚀 Features
+ Features
 - Supports **multiple GA operators**:  
   • Selection: Roulette Wheel, Tournament, Rank-based  
   • Crossover: Uniform, k-Point  
